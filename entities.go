@@ -1,3 +1,4 @@
+// entities.go
 package main
 
 import "image/color"
